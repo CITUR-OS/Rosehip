@@ -4,15 +4,15 @@ Reliable Operating System by Elisha Hollander Implemented Python
 ```diff
 - this only works on windows
 ```
-There is also a [version for linux](https://github.com/donno2048/Rosehip-L), more specifically for ubuntu debian and mint.
+There is also a [version for linux](https://github.com/CITUR-OS/Rosehip-L), more specifically for ubuntu debian and mint.
 
-There is also a [version for web](https://github.com/donno2048/Rosehip-repl), which is not recommended
+There is also a [version for web](https://github.com/CITUR-OS/Rosehip-repl), which is not recommended
 
 There is no version for Android but you can install [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) and download the source code, open _os.py_ in Pydroid, then by running in the Pydroid terminal `pip install pygame pyttsx3 pygame-gui Js2Py html2text markdown2` and pressing the play button on landscape mode you will enter Rosehip, from the programming apps only python, JavaScript and html are working on Android, and from the utilities only the Chrome app and the Camera app won't..
 
 Since Android is built on linux you should be using the linux version of Rosehip mentioned above
 
-## You can run the .exe version from the [releases section](https://github.com/donno2048/Rosehip/releases) (not recommended):
+## You can run the .exe version from the [releases section](https://github.com/CITUR-OS/Rosehip/releases) (not recommended):
 
 Download the zip file named _exe.zip_ then extract it then just double click on _Rosehip.exe_
 
@@ -22,7 +22,7 @@ ___note: you don't need python to run Rosehip.exe___
 
 ## How to install the source version (recommended):
 
-Download the project from the releases section or [go there directly](https://github.com/donno2048/Rosehip/releases), extract the folder then:
+Download the project from the releases section or [go there directly](https://github.com/CITUR-OS/Rosehip/releases), extract the folder then:
 ###### If you have python in your PATH:
 Double click on _a_
 ###### Else:
@@ -64,9 +64,9 @@ Double click on _laptop_start_
 
 ## For developers:
 
-If you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR) but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
+If you want to use it as an .iso you can run [another code I wrote](https://github.com/CITUR-OS/CITUR) but it's currently having some issues, as specified is the [README](https://github.com/CITUR-OS/CITUR/blob/master/README.md)...
 
-Or you can either use the [.iso builder](https://github.com/donno2048/CITUR-L) for the [linux version of Rosehip](https://github.com/donno2048/Rosehip-L)
+Or you can either use the [.iso builder](https://github.com/CITUR-OS/CITUR-L) for the [linux version of Rosehip](https://github.com/CITUR-OS/Rosehip-L)
 
 ## For extreme developers:
 
